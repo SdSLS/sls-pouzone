@@ -1,3 +1,6 @@
+- ¿Quieres implementarle algo? manga un [Pull request](https://github.com/SdSLS/sls-pouzone/pulls)
+- ¿No te anda algo? manda un [Issue](https://github.com/SdSLS/sls-pouzone/issues)
+
 # Instalación
 - Clona
 - Edita la Gamemode en (gamemodes/PZRP.pwn) a tu gusto
@@ -14,10 +17,6 @@
 - Para el admin usa /dameadminpou
 - /adduser (Nombre) y tendrás nombre corto
 
-## Misc
-
-- ¿Quieres implementarle algo? manga un [Pull request](https://github.com/SdSLS/sls-pouzone/pulls)
-- ¿No te anda algo? manda un [Issue](https://github.com/SdSLS/sls-pouzone/issues)
 
 # Fotos
 
