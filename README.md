@@ -1,6 +1,6 @@
 # Instalación
 - Clona
-- Edita el gamemodes/PZRP.pwn a tu gusto
+- Edita la Gamemode en (gamemodes/PZRP.pwn) a tu gusto
 - Abre samp-server.exe
 
 (Ahora te tirará errores de SQL, los prefix smf_)
@@ -13,3 +13,12 @@
 # Darse admin
 - Para el admin usa /dameadminpou
 - /adduser (Nombre) y tendrás nombre corto
+
+## Misc
+
+- ¿Quieres implementarle algo? manga un [Pull request](https://github.com/SdSLS/sls-pouzone/pulls)
+- ¿No te anda algo? manda un [Issue](https://github.com/SdSLS/sls-pouzone/issues)
+
+# Fotos
+
+Proximamente
