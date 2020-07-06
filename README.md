@@ -1,5 +1,6 @@
-- ¿Quieres implementarle algo? [Pull request](https://github.com/SdSLS/sls-pouzone/pulls)
-- ¿No te anda algo? [Issue](https://github.com/SdSLS/sls-pouzone/issues)
+¿Quieres implementarle algo? [Pull request](https://github.com/SdSLS/sls-pouzone/pulls)
+
+¿No te anda algo? [Issue](https://github.com/SdSLS/sls-pouzone/issues)
 
 # Instalación
 - Clona
